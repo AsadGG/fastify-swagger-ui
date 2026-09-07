@@ -97,5 +97,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "allowScripts": {
+    "@scarf/scarf@1.4.0": true
   }
 }
